@@ -1,15 +1,19 @@
-.aspectos-fotos {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
+table {
+    width: 100%;
+    border-collapse: collapse;
     margin-top: 20px;
 }
 
-.aspecto {
+table td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+td {
     text-align: center;
 }
 
-.aspecto img {
+td img {
     width: 100%;
     border-radius: 8px;
     margin-bottom: 10px;
@@ -20,7 +24,7 @@ aside ul {
 }
 
 aside ul li {
-    margin-bottom: 1.5rem;
+    margin-bottom: 24px;
     text-align: center;
 }
 

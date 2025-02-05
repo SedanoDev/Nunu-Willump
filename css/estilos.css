@@ -15,7 +15,7 @@ body {
 header {
     background: #2b4c7e;
     color: white;
-    padding: 2rem;
+    padding: 32px;
     text-align: center;
 }
 
@@ -33,7 +33,7 @@ header h2 {
 
 nav {
     background-color: #1a3050;
-    padding: 1rem;
+    padding: 16px;
 }
 
 nav ul {
@@ -58,11 +58,11 @@ nav a:hover {
 }
 
 main {
-    margin: 2rem auto;
-    padding: 0 1rem;
+    margin: 32px auto;
+    padding: 0 16px;
     display: grid;
     grid-template-columns: 7fr 3fr;
-    gap: 2rem;
+    gap: 32px;
 }  
 
 section {
@@ -71,10 +71,10 @@ section {
 
 article {
     background: white;
-    padding: 2rem;
+    padding: 32px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    margin-bottom: 2rem;
+    margin-bottom: 32px;
     width: 100%;
 }
 
@@ -95,7 +95,7 @@ article img {
 
 aside {
     background: white;
-    padding: 1.5rem;
+    padding: 24px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     height: fit-content;
@@ -125,8 +125,8 @@ footer {
     background-color: #1a3050;
     color: white;
     text-align: center;
-    padding: 1rem;
-    margin-top: 2rem;
+    padding: 16px;
+    margin-top: 32px;
 }
 
 video {

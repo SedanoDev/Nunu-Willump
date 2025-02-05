@@ -4,10 +4,10 @@ section {
 
 article {
     background: white;
-    padding: 2rem;
+    padding: 32px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    margin-bottom: 2rem;
+    margin-bottom: 32px;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -34,18 +34,18 @@ article video {
 article h2 {
     width: 100%;
     text-align: left;
-    margin-bottom: 1rem;
+    margin-bottom: 16px;
     border-bottom: 2px solid #4682b4;
 }
 
 article h3 {
     width: 100%;
     text-align: center;
-    margin-bottom: 1rem;
+    margin-bottom: 16px;
 }
 
 article p {
     width: 100%;
     text-align: center;
-    margin-bottom: 1rem;
+    margin-bottom: 16px;
 }
