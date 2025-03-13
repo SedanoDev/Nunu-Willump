@@ -1,7 +1,3 @@
-¡Perfecto! Aquí tienes una versión mejorada del README con etiquetas (tags) de GitHub para que se vea aún más profesional y funcional, como si estuviera alojado en un repositorio real. Usaré Markdown con sintaxis de GitHub, incluyendo badges, emojis y una estructura optimizada.
-
----
-
 # 🐾 Nunu y Willump: El Dúo Salvaje de Freljord 🧊
 
 ![Nunu y Willump](https://img.shields.io/badge/League%20of%20Legends-Nunu%20%26%20Willump-blue?style=flat-square)  
