@@ -41,7 +41,8 @@ Este proyecto usa **HTML** y **CSS** (y un toque opcional de **JavaScript**) par
 
 ## 📸 Vistazo Rápido
 
-> *(Imagina una captura con un fondo nevado, tipografía de LoL y Willump lanzando una bola de nieve.)*
+![image](https://github.com/user-attachments/assets/3218a29b-da3a-4cd3-8e5c-cd609a9dff27)
+
 
 ---
 
@@ -56,7 +57,7 @@ Nunu y Willump son la combinación perfecta de diversión y compañerismo en *Le
 - **Nombre**: [Luis Sedano]  
 - **Asignatura**: Lenguajes de Marcas - ASIR  
 - **Fecha**: Marzo 2025  
-- **GitHub**: [sedanodev](https://github.com/sedano-dev)
+- 🌐 **Live Demo**:  [Nunu-Willump](https://sedanodev.github.io/Nunu-Willump/)
 
 ---
 
